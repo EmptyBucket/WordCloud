@@ -2,8 +2,8 @@
 using System.IO;
 using Ninject.Modules;
 using WordCloudMVVM.Model;
-using WordCloudMVVM.Model.Cloud.Build;
-using WordCloudMVVM.Model.Cloud.Build.Intersection;
+using WordCloudMVVM.Model.Cloud.BuildCloud;
+using WordCloudMVVM.Model.Cloud.BuildCloud.Intersection;
 using WordCloudMVVM.Model.Read;
 using WordCloudMVVM.Model.WordInspector;
 using WordCloudMVVM.Model.WordParse;

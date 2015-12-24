@@ -124,10 +124,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Model\Cloud\Build\ICloudBuilder.cs" />
-    <Compile Include="Model\Cloud\Build\Intersection\IIntersectionChecker.cs" />
-    <Compile Include="Model\Cloud\Build\Intersection\IntersectionChecker.cs" />
-    <Compile Include="Model\Cloud\Build\LineCloudBuilder.cs" />
+    <Compile Include="Model\Cloud\BuildCloud\ICloudBuilder.cs" />
+    <Compile Include="Model\Cloud\BuildCloud\Intersection\IIntersectionChecker.cs" />
+    <Compile Include="Model\Cloud\BuildCloud\Intersection\IntersectionChecker.cs" />
+    <Compile Include="Model\Cloud\BuildCloud\LineCloudBuilder.cs" />
     <Compile Include="Model\Cloud\GeometryExtended.cs" />
     <Compile Include="Model\Read\ITextReader.cs" />
     <Compile Include="Model\Read\TXTReader.cs" />
@@ -140,8 +140,8 @@
     <Compile Include="Model\Word\Word.cs" />
     <Compile Include="Model\Word\WordFontSize.cs" />
     <Compile Include="Model\Word\WordStyle.cs" />
-    <Compile Include="Model\Cloud\Paint\ICloudPainter.cs" />
-    <Compile Include="Model\Cloud\Paint\CloudPainter.cs" />
+    <Compile Include="Model\Cloud\PaintCloud\ICloudPainter.cs" />
+    <Compile Include="Model\Cloud\PaintCloud\CloudPainter.cs" />
     <Compile Include="Model\Word\WordModelView.cs" />
     <Compile Include="Model\Word\IWord.cs" />
     <Compile Include="Model\Word\WordWeightToWordStyleConverter.cs" />

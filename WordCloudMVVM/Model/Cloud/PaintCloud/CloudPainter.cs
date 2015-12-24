@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Windows.Media;
-using WordCloudMVVM.Model.Cloud.Build;
+using WordCloudMVVM.Model.Cloud.BuildCloud;
 
 namespace WordCloudMVVM.Model
 {
